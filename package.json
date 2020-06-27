@@ -1,0 +1,20 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datatables.net": "^1.10.21",
+    "datatables.net-dt": "^1.10.21",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20",
+    "request": "^2.88.2"
+  }
+}
